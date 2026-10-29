@@ -1,0 +1,6 @@
+{
+  "name": "MealBridge",
+  "description": "Food surplus redistribution platform connecting Donors, NGOs, Volunteers, and Administrators in Belagavi region.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
